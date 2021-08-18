@@ -6,3 +6,4 @@ display current directory contents, including hidden files(starting with .).use 
 display current directory contents.long format, with user and group IDs displayed numerically.
 creates a directory named my_first_directory in the /tmp/ directory.
 move the file betty from /tmp/ to /tmp/my_first_directory.
+delete the file betty.
