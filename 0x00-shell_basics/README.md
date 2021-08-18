@@ -8,3 +8,4 @@ creates a directory named my_first_directory in the /tmp/ directory.
 move the file betty from /tmp/ to /tmp/my_first_directory.
 delete the file betty.
 delete the directory my_first_directory that is in /tmp directory.
+changes the working directory to the previous one.
