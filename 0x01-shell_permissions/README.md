@@ -14,3 +14,4 @@ Other users: all the permissionsn
 file 9:sets the mode of the file hello to this:
 
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+file 10:sets the mode of the file hello the same as olleh’s mode.
