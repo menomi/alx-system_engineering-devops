@@ -19,4 +19,4 @@ file 11:adds execute permission to all subdirectories of the current directory f
 file 12:Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 file 13:changes the group owner to school for the file hello
 file 14:changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-
+file 15:changes the owner and the group owner of _hello to vincent and staff respectively.
