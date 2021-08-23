@@ -1,0 +1,17 @@
+total 56
+drwxrwxr-x 2 melat melat 4096 Aug 23 12:36 .
+drwxrwxr-x 6 melat melat 4096 Aug 23 11:28 ..
+-rwxrwxr-x 1 melat melat   32 Aug 23 11:32 0-hello_world
+-rwxrwxr-x 1 melat melat   28 Aug 23 11:43 1-confused_smiley
+-rwxrwxr-x 1 melat melat   28 Aug 23 11:51 2-hellofile
+-rwxrwxr-x 1 melat melat   39 Aug 23 11:59 3-twofiles
+-rwxrwxr-x 1 melat melat   29 Aug 23 12:05 4-lastlines
+-rwxrwxr-x 1 melat melat   29 Aug 23 12:09 5-firstlines
+-rwxrwxr-x 1 melat melat   36 Aug 23 12:14 6-third_line
+-rwxrwxr-x 1 melat melat   78 Aug 23 12:28 7-file
+-rwxrwxr-x 1 melat melat   73 Aug 23 12:21 7-file~
+-rwxrwxr-x 1 melat melat   36 Aug 23 12:35 8-cwd_state
+-rw-rw-r-- 1 melat melat   12 Aug 23 12:29 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 melat melat    0 Aug 23 12:36 la_cwd_content
+-rw-rw-r-- 1 melat melat    0 Aug 23 12:34 ls_cwd_content
+-rw-rw-r-- 1 melat melat  697 Aug 23 12:33 README.md
