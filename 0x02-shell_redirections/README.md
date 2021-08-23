@@ -37,3 +37,4 @@ file 21:reverse its input.
 file 22:displays all users and their home directories, sorted by users.
 file 100:finds all empty files and directories in the current directory and all sub-directories.
 file 101:lists all the files with a .gif extension in the current directory and all its sub-directories.
+file 102:decodes acrostics that use the first letter of each line.
