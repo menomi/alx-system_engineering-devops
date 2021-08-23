@@ -13,3 +13,9 @@ file 11:counts the number of directories and sub-directories in the current dire
 
 The current and parent directories should not be taken into account
 Hidden directories should be counted
+file 12:displays the 10 newest files in the current directory.
+
+Requirements:
+
+One file per line
+Sorted from the newest to the oldest
