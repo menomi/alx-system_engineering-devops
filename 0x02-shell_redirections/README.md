@@ -25,3 +25,4 @@ Input format: One line, one word
 Output format: One line, one word
 Words should be sorted
 file 14:display lines containing the pattern "root" from the file /etc/passwd
+file 15:display the number of lines that contain the pattern "bin"in the file /etc/passwd
