@@ -34,3 +34,4 @@ include capital letters as well
 file 19:Replace all characters A and c from input to Z and e respectively.
 file 20:removes all letters c and C from input.
 file 21:reverse its input.
+file 22:displays all users and their home directories, sorted by users.
