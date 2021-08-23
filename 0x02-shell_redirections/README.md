@@ -33,3 +33,4 @@ file 18:Display all lines of the file /etc/ssh/sshd_config starting with a lette
 include capital letters as well
 file 19:Replace all characters A and c from input to Z and e respectively.
 file 20:removes all letters c and C from input.
+file 21:reverse its input.
