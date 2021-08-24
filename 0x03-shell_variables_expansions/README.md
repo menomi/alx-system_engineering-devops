@@ -5,3 +5,4 @@ file 3:counts the number of directories in the PATH.
 file 4:lists environmental variables
 file 5: lists all local variables and environment variables, and functions.
 file 6:creates a new local variable
+file 7:creates a new global variable.
