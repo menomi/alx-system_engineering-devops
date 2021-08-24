@@ -7,3 +7,4 @@ file 5: lists all local variables and environment variables, and functions.
 file 6:creates a new local variable
 file 7:creates a new global variable.
 file 8:prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+file 9:prints the result of POWER divided by DIVIDE, followed by a new line.
