@@ -14,3 +14,4 @@ file 12:prints all possible combinations of two letters, except oo.
 file 13: prints a number with two decimal places, followed by a new line.
 file 100: converts a number from base 10 to base 16.
 file 101:encodes and decodes text using the rot13 encryption. Assume ASCII.
+file 102:prints every other line from the input, starting with the first line.
